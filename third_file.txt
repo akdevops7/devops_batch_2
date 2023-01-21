@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this is an ok feature
+=======
+this is a gadbad file
+>>>>>>> 6ecbfa3 (added third file)
