@@ -2,3 +2,4 @@ this is feat 1
 this is new feature
 this new for creating conflict
 this changed done by remote
+this changed done by remote 1
